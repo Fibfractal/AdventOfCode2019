@@ -1,0 +1,6 @@
+C:\Users\bande_000\source\repos\Advent code\Test\bin\Debug\Test.exe.config
+C:\Users\bande_000\source\repos\Advent code\Test\bin\Debug\Test.exe
+C:\Users\bande_000\source\repos\Advent code\Test\bin\Debug\Test.pdb
+C:\Users\bande_000\source\repos\Advent code\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\bande_000\source\repos\Advent code\Test\obj\Debug\Test.exe
+C:\Users\bande_000\source\repos\Advent code\Test\obj\Debug\Test.pdb

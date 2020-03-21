@@ -1,0 +1,9 @@
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\bin\Debug\Advent code 1.exe.config
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\bin\Debug\Advent code 1.exe
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\bin\Debug\Advent code 1.pdb
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\obj\Debug\Advent code 1.csprojAssemblyReference.cache
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\obj\Debug\Advent code 1.csproj.CopyComplete
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\obj\Debug\Advent code 1.exe
+C:\Users\bande_000\source\repos\Advent code\Advent code 1\obj\Debug\Advent code 1.pdb

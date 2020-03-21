@@ -1,0 +1,6 @@
+C:\Users\bande_000\source\repos\Advent code\Advent code 4\bin\Debug\Advent code 4.exe.config
+C:\Users\bande_000\source\repos\Advent code\Advent code 4\bin\Debug\Advent code 4.exe
+C:\Users\bande_000\source\repos\Advent code\Advent code 4\bin\Debug\Advent code 4.pdb
+C:\Users\bande_000\source\repos\Advent code\Advent code 4\obj\Debug\Advent code 4.csprojAssemblyReference.cache
+C:\Users\bande_000\source\repos\Advent code\Advent code 4\obj\Debug\Advent code 4.exe
+C:\Users\bande_000\source\repos\Advent code\Advent code 4\obj\Debug\Advent code 4.pdb
